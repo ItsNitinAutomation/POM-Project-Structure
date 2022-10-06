@@ -1,0 +1,7 @@
+2022-10-04 17:36:33,503  INFO [main] HomePageTest:27 - *******************Initializing Driver*******************
+2022-10-04 17:36:44,651  INFO [main] LandingPageTest:31 - *******************Initializing Driver*******************
+2022-10-04 17:36:50,373  INFO [main] HomePageTest:35 - *******************Title Test of Home Page Started*******************
+2022-10-04 17:36:50,384  INFO [main] HomePageTest:38 - *******************Title Test of Home Page Closed*******************
+2022-10-04 17:36:53,416  INFO [main] HomePageTest:44 - *******************Search Content Test of Home Page Started*******************
+2022-10-04 17:36:59,826  INFO [main] HomePageTest:52 - *******************New Page Test of Home Page Started*******************
+2022-10-04 17:37:31,938  INFO [main] HomePageTest:60 - *******************Closing Browser*******************
